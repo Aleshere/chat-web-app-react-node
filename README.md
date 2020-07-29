@@ -1,3 +1,33 @@
+
+# Web Chat App
+
+# What I have learned building this
+
+> React router    
+> React useState and useEffect hooks    
+> Express and Socket IO  
+> Props drilling and destructuring  
+> Neat and standalone components inclusive of standalone css filed for better scalability   
+> Deployment on Netlify for front and Heroku for back  
+> Input validation
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## About
+
+* This was a more complex tutorial from the Javascript Mastery Channel, and my first involving both frontend and backend
+* Project status: working
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And here is the usual boring stuff :)  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
